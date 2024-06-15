@@ -71,23 +71,28 @@ npm run start
 
 Backend Initialization :
 
-![image](https://github.com/vighas-ks-16/NodeJS-App-on-AWS/assets/107311113/09cfe8b8-2266-422c-894b-6fbb04d4457c)
+![image](https://github.com/vighas-ks-16/NodeJS-App-on-AWS/assets/107311113/a74d2798-d7ec-403e-ad02-1513c6125adb)
+
 
 Sample Application Overview in the Local Environment :
 
-![image](https://github.com/vighas-ks-16/NodeJS-App-on-AWS/assets/107311113/14a31e6b-b877-4e3e-9b77-2157c22b8db0)
+![image](https://github.com/vighas-ks-16/NodeJS-App-on-AWS/assets/107311113/6d245816-c3dd-446c-a0f7-5009e15c4d35)
+
 
 Connecting the EC2 Instance to Local Ubuntu Machine :
 
-![image](https://github.com/vighas-ks-16/NodeJS-App-on-AWS/assets/107311113/3406d5de-4f07-4fc3-8014-c6cf8b2a7a32)
+![image](https://github.com/vighas-ks-16/NodeJS-App-on-AWS/assets/107311113/bc2776bd-516e-4c10-a866-7401b936b1e9)
+
 
 Editing the Inbound Rules :
 
-![image](https://github.com/vighas-ks-16/NodeJS-App-on-AWS/assets/107311113/7788eea1-b976-4a90-920a-219d9233d2e1)
+![image](https://github.com/vighas-ks-16/NodeJS-App-on-AWS/assets/107311113/4e92e48c-acbe-4fc2-ab35-cdf68e0e05b8)
+
 
 Final Output : (Exposing the Node JS Application Globally)
 
-![image](https://github.com/vighas-ks-16/NodeJS-App-on-AWS/assets/107311113/875c903d-d3ba-4960-a2ff-03804700892d)
+![image](https://github.com/vighas-ks-16/NodeJS-App-on-AWS/assets/107311113/30ecb4d5-5396-44e4-a845-345ebadd85eb)
+
 
 
 
